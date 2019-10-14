@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Turret+Road&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap');
 h1 {
   font-family: 'Turret Road', cursive;
+}
+p {
+  font-size: 20px;
+  font-family: 'Cormorant Garamond', serif;
 }
